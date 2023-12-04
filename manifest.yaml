@@ -1,0 +1,8 @@
+---
+id: datadogcharts
+name: Datadog Charts
+summary: Datadog Charts
+desc: Displays Datadog Charts from your Datadog dashboards
+author: gabe-ochoa
+fileName: datadog_charts.star
+packageName: datadog_charts
